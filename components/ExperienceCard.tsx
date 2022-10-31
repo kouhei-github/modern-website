@@ -4,9 +4,10 @@ import {motion} from 'framer-motion'
 const ExperienceCard: NextPage = () => {
   return (
       <article className={"flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[900px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-40 cursor-pointer transition-opacity duration-200 overflow-hidden"}>
+        {/* viewportでアニメーションを最初のみ表示するか、何度も表示するかの設定を行う */}
         <motion.img
             initial={{ x: 0, opacity: 0 }}
-            transition={{ duration: 1.2 }}
+            transition={{ duration: 2.2 }}
             whileInView={{ y: 0, opacity: 1 }}
             viewport={{ once: true }}
 

@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="186dab59-f46e-495e-b3dd-98bd82e782be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/About.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BackgroundCircles.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Exeperience.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ExperienceCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Hero.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Skill.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Skills.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aws.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/download-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascript.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/my-official.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/my-picture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/nextjs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/netflix.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Exeperience.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Exeperience.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ExperienceCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ExperienceCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Skill.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Skill.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Skills.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +93,7 @@
       <workItem from="1666749156551" duration="380000" />
       <workItem from="1666749548292" duration="36000" />
       <workItem from="1666749668734" duration="16439000" />
-      <workItem from="1666850994371" duration="17173000" />
+      <workItem from="1666850994371" duration="22965000" />
     </task>
     <servers />
   </component>
